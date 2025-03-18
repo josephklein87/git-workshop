@@ -5,3 +5,5 @@
 ## Sonyl Nagale
 
 sonyl.nagale@baruch.cuny.edu
+
+finance major trying to learn some coding, send help!
